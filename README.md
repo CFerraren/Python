@@ -2,7 +2,7 @@
 
 Introductory Exercises to demonstrate python basics and functionalities.
 
-## Functions
+## Topics
 
 *  Python Input Prompts
 *  Variables
